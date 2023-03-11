@@ -3,7 +3,7 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2023-01-10T16:03:53.837Z",
+        "start_timestamp": "2023-03-09T04:22:41.875Z",
         "line": 3,
         "name": "Test the valid login",
         "description": "",
@@ -13,7 +13,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1386800,
+              "duration": 3572790100,
               "status": "passed"
             },
             "line": 5,
@@ -25,6 +25,7 @@
           },
           {
             "result": {
+              "duration": 421923200,
               "status": "passed"
             },
             "line": 6,
@@ -36,6 +37,7 @@
           },
           {
             "result": {
+              "duration": 81582000,
               "status": "passed"
             },
             "line": 7,
@@ -47,6 +49,7 @@
           },
           {
             "result": {
+              "duration": 999900,
               "status": "passed"
             },
             "line": 8,
@@ -59,7 +62,7 @@
         ]
       },
       {
-        "start_timestamp": "2023-01-10T16:03:53.899Z",
+        "start_timestamp": "2023-03-09T04:22:46.006Z",
         "line": 11,
         "name": "Test the valid login1",
         "description": "",
@@ -69,6 +72,7 @@
         "steps": [
           {
             "result": {
+              "duration": 2797863300,
               "status": "passed"
             },
             "line": 13,
@@ -80,6 +84,7 @@
           },
           {
             "result": {
+              "duration": 423467700,
               "status": "passed"
             },
             "line": 14,
@@ -91,7 +96,7 @@
           },
           {
             "result": {
-              "duration": 996600,
+              "duration": 45514100,
               "status": "passed"
             },
             "line": 15,
@@ -103,6 +108,7 @@
           },
           {
             "result": {
+              "duration": 2844700,
               "status": "passed"
             },
             "line": 16,
